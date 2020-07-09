@@ -58,10 +58,6 @@ DOWNLOADER_MIDDLEWARES = {
     'scrapy.downloadermiddlewares.httpcache.HttpCacheMiddleware': 100
 }
 
-EXTENSIONS = {
-    's1.extensions.CrawlTimeOut': 299,
-}
-
 # Enable or disable extensions
 # See https://doc.scrapy.org/en/latest/topics/extensions.html
 # EXTENSIONS = {
