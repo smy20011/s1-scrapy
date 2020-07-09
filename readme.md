@@ -10,7 +10,7 @@ pip3 install scrapy
 ```bash
 export USERNMAE=your_s1_user_name
 export PASSWORD=your_s1_password
-cd s1
+cd s1-scrapy/s1
 scrapy crawl s1
 ```
 
