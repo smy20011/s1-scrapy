@@ -1,7 +1,7 @@
 # Install
 
 ```bash
-git clone this repository
+git clone https://github.com/smy20011/s1-scrapy
 pip3 install scrapy
 ```
 
